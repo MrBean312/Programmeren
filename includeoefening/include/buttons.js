@@ -1,0 +1,18 @@
+document.write(' <div class=\"alles\">\n');
+document.write('        <div class=\"cameras\">\n');
+document.write('            <a class=\"active\" href=\"../include/cameras.html\"><img src=\"../image/cameras_button.png\" alt=\"cameras\"></a>\n');
+document.write('        </div>\n');
+document.write('        <div class=\"koelkasten\">\n');
+document.write('            <a class=\"active\" href=\"../include/koelkasten.html\"><img src=\"../image/koelkasten_button.png\" alt=\"koelkasten\"></a>\n');
+document.write('        </div>\n');
+document.write('        <div class=\"lamp\">\n');
+document.write('            <a class=\"active\" href=\"../include/lamp.html\"><img src=\"../image/lampen_button.png\" alt=\"lamp\"></a>\n');
+document.write('        </div>\n');
+document.write('        <div class=\"stereo\">\n');
+document.write('            <a class=\"active\" href=\"../include/stereo.html\"><img src=\"../image/stereo_button.png\" alt=\"stereo\"></a>\n');
+document.write('        </div>\n');
+document.write('        <div class=\"wasmachines\">\n');
+document.write('            <a class=\"active\" href=\"../include/wasmachines.html\"><img src=\"../image/wasmachines_button.png\" alt=\"wasmachines\"></a>\n');
+document.write('        </div>\n');
+document.write('    </div>\n');
+document.write('</body>\n');

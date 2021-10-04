@@ -1,0 +1,88 @@
+.alles {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.cameras {
+    display: flex;
+}
+
+.wasmachines {
+    display: flex;
+}
+
+.stereo {
+    display: flex;
+}
+
+.lamp {
+    display: flex;
+}
+
+.koelkasten {
+    display: flex;
+}
+
+.cameras:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(72, 255, 0) 1px solid;
+    border: 1px;
+}
+
+.koelkasten:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(72, 255, 0) 1px solid;
+    border: 1px;
+}
+
+.stereo:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(72, 255, 0) 1px solid;
+}
+
+.wasmachines:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(30, 255, 0) 1px solid;
+}
+
+.lamp:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(30, 255, 0) 1px solid;
+}
+
+.hoofd {
+    border: darkgreen 5px solid;
+    background-color: green;
+    text-align: center;
+}
+
+.hoofdi {
+    border: darkgreen 5px solid;
+    background-color: green;
+    text-align: center;
+}
+
+.button {
+    background-color: green;
+    border: rgba(0, 0, 0, 0.568) 1px solid;
+}
+
+.knop {
+    background-color: indigo;
+}
+
+.active {
+    border: rgb(9, 105, 17) 1px solid;
+}
+
+.knopt {
+    border: rgb(0, 0, 0) 0px solid;
+    background-color: rgb(22, 126, 27);
+}

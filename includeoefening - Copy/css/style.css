@@ -1,0 +1,78 @@
+.alles {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.camera {
+    display: flex;
+}
+
+.wasmachine {
+    display: flex;
+}
+
+.stereo {
+    display: flex;
+}
+
+.lamp {
+    display: flex;
+}
+
+.koelkast {
+    display: flex;
+}
+
+.camera:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(72, 255, 0) 1px solid;
+    border: 1px;
+}
+
+.koelkast:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(72, 255, 0) 1px solid;
+}
+
+.stereo:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(72, 255, 0) 1px solid;
+}
+
+.wasmachine:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(30, 255, 0) 1px solid;
+}
+
+.lamp:hover {
+    box-shadow: 0 0 75px rgb(30, 255, 0);
+    border-radius: 1000px;
+    border: rgb(30, 255, 0) 1px solid;
+}
+
+.hoofd {
+    border: darkgreen 5px solid;
+    background-color: green;
+    text-align: center;
+}
+
+.hoofdi {
+    border: darkgreen 5px solid;
+    background-color: green;
+    text-align: center;
+}
+
+.button {
+    background-color: green;
+    border: rgba(0, 0, 0, 0.568) 1px solid;
+}
+
+.knop {
+    background-color: indigo;
+}
